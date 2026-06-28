@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "faishal-skills",
+  "description": "Faishal's agent skills for Claude Code.",
+  "owner": {
+    "name": "Faishal Rachman",
+    "url": "https://github.com/faishalrachman"
+  },
+  "plugins": [
+    {
+      "name": "faishal-skills",
+      "description": "Faishal's agent skills.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

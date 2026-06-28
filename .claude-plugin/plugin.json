@@ -1,0 +1,11 @@
+{
+  "name": "faishal-skills",
+  "description": "Faishal's agent skills.",
+  "author": {
+    "name": "Faishal Rachman",
+    "url": "https://github.com/faishalrachman"
+  },
+  "skills": [
+    "./skills/yagni"
+  ]
+}
