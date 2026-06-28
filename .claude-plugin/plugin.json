@@ -6,6 +6,13 @@
     "url": "https://github.com/faishalrachman"
   },
   "skills": [
-    "./skills/yagni"
+    "./skills/yagni",
+    "./skills/data-analytics",
+    "./skills/product/find-problem",
+    "./skills/product/product-research",
+    "./skills/product/mvp",
+    "./skills/product/grill-business",
+    "./skills/product/grill-me",
+    "./skills/product/grill-with-docs"
   ]
 }
