@@ -29,19 +29,25 @@ Select the skills and coding agents you want, and you're ready.
 
 Skills for code work.
 
-- **[yagni](./skills/yagni/SKILL.md)** — Laziest-solution-that-works mode in caveman speak. Build the minimum code that solves the real problem, and say it in ~75% fewer tokens with full technical accuracy. Triggers on `/yagni`, "be lazy", "simplest solution", or complaints about over-engineering.
+- **[yagni](./skills/yagni/SKILL.md)** — Laziest-solution-that-works mode in caveman speak. Build the minimum code that fully solves the real task, and say it in ultracave fragments with full technical accuracy. Levels: `lite`, `full`, `ultra`. Triggers on `/yagni`, "be lazy", "simplest solution", or complaints about over-engineering.
 - **[data-analytics](./skills/data-analytics/SKILL.md)** — Generic SQL analytics over any data source: remote DB via MCP, or CSV/Excel/Parquet/SQLite/local Postgres/MySQL via DuckDB. Caches a relation/field map to `data/db-relations.md` on first use, then pulls data or hunts anomalies by business logic and writes every result to `data/<slug>.md` + `.xlsx`.
 
 ### Product
 
 Skills for finding, validating, and scoping what to build.
 
-- **[find-problem](./skills/product/find-problem/SKILL.md)** — Surprise you with 5–7 monetizable B2B problem wedges to build a small profitable product around. Biased to boring, painful, already-paid-for problems. Search-backed.
+- **[find-problem](./skills/product/find-problem/SKILL.md)** — Surprise you with 5–7 monetizable B2B problem wedges, each drilled to its root cause with 5-Whys so the wedge targets the cause, not the symptom. Search-backed.
 - **[product-research](./skills/product/product-research/SKILL.md)** — Research a problem into a monetizable wedge a solo technical founder can sell. Segments the pain, finds demand signals and existing pricing, ranks angles, then hands the top wedge to grilling.
 - **[mvp](./skills/product/mvp/SKILL.md)** — Write a lean PRD for the smallest *sellable* version — shippable in ~2 weeks, ruthlessly cut. Anything not required to charge money is out of scope for v1.
 - **[grill-business](./skills/product/grill-business/SKILL.md)** — Adversarial angel-investor pressure-test of an idea. Hunts the weakest link fastest — paying buyer, willingness to pay, distribution — and forces evidence, not vibes.
 - **[grill-me](./skills/product/grill-me/SKILL.md)** — Relentless one-at-a-time interview that walks a plan or design down its decision tree, recommending an answer at each branch.
 - **[grill-with-docs](./skills/product/grill-with-docs/SKILL.md)** — Grill a plan against your BRD/PRD/TRD + glossary, sharpening terminology and updating those docs inline as decisions crystallise.
+
+### Writing
+
+Skills for writing.
+
+- **[nulis](./skills/nulis/SKILL.md)** — Academic technical writing in the author's own Indonesian/English voice, calibrated from their thesis corpus plus the strongest traits of the papers they cite. Style only: topic and outline come from you. Triggers on `/nulis`, "tulis skripsi", "revisi TA", "abstrak", "write paper".
 
 ## Add a skill
 

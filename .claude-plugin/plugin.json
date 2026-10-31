@@ -13,6 +13,7 @@
     "./skills/product/mvp",
     "./skills/product/grill-business",
     "./skills/product/grill-me",
-    "./skills/product/grill-with-docs"
+    "./skills/product/grill-with-docs",
+    "./skills/nulis"
   ]
 }
